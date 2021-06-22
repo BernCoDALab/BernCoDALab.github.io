@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-22T17:30:46+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bern CoDA Lab</title><subtitle>Landing page for the Bern CoDA Lab</subtitle><entry><title type="html">contact</title><link href="http://0.0.0.0:4000/contact" rel="alternate" type="text/html" title="contact" /><published>2000-01-07T00:00:00+01:00</published><updated>2000-01-07T00:00:00+01:00</updated><id>http://0.0.0.0:4000/contact</id><content type="html" xml:base="http://0.0.0.0:4000/contact">&lt;!-- ICK
+&lt;p style=&quot;clear: both;width: 0px&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;float: left; font-size: 14pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;&quot;&gt;&lt;img src=&quot;img/Eli.png&quot; style=&quot;width: 100%;border-radius:50%&quot;&gt;&lt;a href=&quot;http://eeholmes.github.io&quot;&gt;Eli Holmes&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;float: left; font-size: 14pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;&quot;&gt;&lt;img src=&quot;img/Mark.jpg&quot; style=&quot;width: 100%;border-radius:50%&quot;&gt;&lt;a href=&quot;https://faculty.washington.edu/scheuerl/&quot;&gt;Mark Scheuerell&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;float: left; font-size: 14pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;&quot;&gt;&lt;img src=&quot;img/Eric.png&quot; style=&quot;width: 100%;border-radius:50%&quot;&gt;&lt;a href=&quot;https://ericward-noaa.github.io/&quot;&gt;Eric Ward&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;clear: both;&quot;&gt;
+--&gt;
+
+&lt;h2&gt;Please see our individual websites for our contact information&lt;/h2&gt;
+
+&lt;div id=&quot;contactscontainer&quot;&gt;
+
+&lt;div id=&quot;contactsbox&quot;&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/va_personen/dr_rutishauser_susanne&quot; style=&quot;text-decoration:none&quot;&gt;&lt;img src=&quot;img/susannerutishauser.jpg&quot; style=&quot;width: 100%;border-radius:50%&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/va_personen/dr_rutishauser_susanne&quot; style=&quot;text-decoration:none&quot;&gt;Susanne Rutishauser&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;contactsbox&quot;&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/dr_hinz_martin&quot; style=&quot;text-decoration:none&quot;&gt;&lt;img src=&quot;img/martinhinz.png&quot; style=&quot;width: 100%;border-radius:50%&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/dr_hinz_martin&quot; style=&quot;text-decoration:none&quot;&gt;Martin Hinz&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;contactsbox&quot;&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/amm_personen/dr_weiss_christian&quot; style=&quot;text-decoration:none&quot;&gt;&lt;img src=&quot;img/christianweiss.jpg&quot; style=&quot;width: 100%;border-radius:50%&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/amm_personen/dr_weiss_christian&quot; style=&quot;text-decoration:none&quot;&gt;Christian Weiss&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Publications</title><link href="http://0.0.0.0:4000/publications" rel="alternate" type="text/html" title="Publications" /><published>2000-01-04T00:00:00+01:00</published><updated>2000-01-04T00:00:00+01:00</updated><id>http://0.0.0.0:4000/publications</id><content type="html" xml:base="http://0.0.0.0:4000/publications">&lt;h2&gt;Our publications related to multivariate time-series analysis&lt;/h2&gt;
+
+&lt;p&gt;This is a selection of papers involving the Bern CoDA Lab.  See our &lt;a href=&quot;https://https://berncodalab.github.io/#contact&quot;&gt;individual websites&lt;/a&gt; for our publications on other topics.&lt;/p&gt;
+
+&lt;style&gt;
+ul {
+  list-style-type: none;
+}
+&lt;/style&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fill me&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Our publications related to multivariate time-series analysis</summary></entry><entry><title type="html">Packages</title><link href="http://0.0.0.0:4000/packages" rel="alternate" type="text/html" title="Packages" /><published>2000-01-03T00:00:00+01:00</published><updated>2000-01-03T00:00:00+01:00</updated><id>http://0.0.0.0:4000/packages</id><content type="html" xml:base="http://0.0.0.0:4000/packages">&lt;h2 class=&quot;text-blue&quot;&gt;Software available on GitHub&lt;/h2&gt;
+
+&lt;!-- the part in pkgsboxtext2 will disappear on small screens --&gt;
+&lt;div id=&quot;pkgscontainer&quot;&gt;
+
+Yet to come
+&lt;!--
+&lt;div id=&quot;pkgsbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot;  href=&quot;https://nwfsc-timeseries.github.io/MARSS/&quot;&gt;MARSS&lt;/a&gt;&lt;br&gt;
+&lt;span id=&quot;pkgsboxtext1&quot;&gt;Multivariate Autoregressive State-Space Modeling with R.&lt;/span&gt; &lt;span id=&quot;pkgsboxtext2&quot;&gt; Includes a book: &lt;a href=&quot;https://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf&quot;&gt;Analysis of multivariate time series using the MARSS package&lt;/a&gt;.&lt;/span&gt;
+&lt;/div&gt;
+ --&gt;
+ 
+ 
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Software available on GitHub</summary></entry><entry><title type="html">Courses</title><link href="http://0.0.0.0:4000/courses" rel="alternate" type="text/html" title="Courses" /><published>2000-01-02T00:00:00+01:00</published><updated>2000-01-02T00:00:00+01:00</updated><id>http://0.0.0.0:4000/courses</id><content type="html" xml:base="http://0.0.0.0:4000/courses">&lt;h2 class=&quot;text-white&quot;&gt;Statistical Methods for Archaeological Data Analysis (SMADA)&lt;/h2&gt;
+
+&lt;div id=&quot;coursescontainer&quot;&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/smada2021&quot;&gt;Course Website&lt;/a&gt;&lt;br /&gt;
+Lectures pdfs, lecture video recordings, course handouts and exercises.
+&lt;/div&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/smada2021/book/preface.html&quot;&gt;Book&lt;/a&gt;&lt;br /&gt;
+Online book based on the course.&lt;br /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;padding: 20px&quot;&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;text-white&quot;&gt;GIS in Archaeology (GIA)&lt;/h2&gt;
+
+&lt;div id=&quot;coursescontainer&quot;&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/gia_hs_2020&quot;&gt;Course Website&lt;/a&gt;&lt;br /&gt;
+Using QGIS for archeological investigations.
+&lt;/div&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;&quot;&gt;Book&lt;/a&gt;&lt;br /&gt;
+Yet to come.&lt;br /&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Statistical Methods for Archaeological Data Analysis (SMADA)</summary></entry><entry><title type="html">home</title><link href="http://0.0.0.0:4000/intro" rel="alternate" type="text/html" title="home" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://0.0.0.0:4000/intro</id><content type="html" xml:base="http://0.0.0.0:4000/intro">&lt;h1&gt;Bern CoDA Lab&lt;/h1&gt;
+&lt;h2 class=&quot;text-blue&quot;&gt;Courses, eBooks, Software, and Publications&lt;/h2&gt;</content><author><name></name></author><summary type="html">Bern CoDA Lab Courses, eBooks, Software, and Publications</summary></entry></feed>

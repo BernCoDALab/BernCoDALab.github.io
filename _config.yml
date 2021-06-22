@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -20,7 +20,7 @@ description: "Landing page for the Bern CoDA Lab"
 source_link: "https://berncodalab.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: 
 
 
 ### template colors, used site-wide via css ###
@@ -32,7 +32,8 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-
+  darkblue:  '#0a4199'
+  leafgreen: '#BDDF75'
+  
 kramdown:
   auto_ids:  false
-
