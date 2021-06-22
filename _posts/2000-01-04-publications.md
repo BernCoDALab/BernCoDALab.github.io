@@ -22,3 +22,8 @@ ul {
 * Sollee, Alexander Ericson; Rutishauser, Susanne Muriel; Hübner, Christian; Hemeier, Birthe; Novák, Mirko (2018). Fernerkundung, geophysikalische Prospektion und Ausgrabungen am Sirkeli Höyük (TR): Die Wiederentdeckung des antiken Kummanni/Kisuatni. Mitteilungen der Naturforschenden Gesellschaft in Bern, 75, S. 112-135. Naturforschende Gesellschaft Bern
 
 * Rutishauser, Susanne Muriel (Februar 2018). Hollow Ways – Wegenetze der Bronzezeit. In: Oswald, Debora; Schiel, Linda; Wagener-Böck, Nadine (Hg.) unterwegs. Zu Gestalt, Funktion und Materialität von Wegen. - Wege: Gestalt – Funktion – Materialität. Schriftenreihe der Isa Lohmann-Siems Stiftung: Vol. 11 (S. 22-39). Reimer Verlag
+
+* Hinz, M. (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. https://doi.org/10.5334/jcaa.53
+
+* Schmid, C., Seidensticker, D., & Hinz, M. (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. https://doi.org/10.21105/joss.01914
+
