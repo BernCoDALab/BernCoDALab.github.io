@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-22T17:30:46+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bern CoDA Lab</title><subtitle>Landing page for the Bern CoDA Lab</subtitle><entry><title type="html">contact</title><link href="http://0.0.0.0:4000/contact" rel="alternate" type="text/html" title="contact" /><published>2000-01-07T00:00:00+01:00</published><updated>2000-01-07T00:00:00+01:00</updated><id>http://0.0.0.0:4000/contact</id><content type="html" xml:base="http://0.0.0.0:4000/contact">&lt;!-- ICK
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-07-05T16:33:30+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bern CoDA Lab</title><subtitle>Landing page for the Bern CoDA Lab</subtitle><entry><title type="html">contact</title><link href="http://0.0.0.0:4000/contact" rel="alternate" type="text/html" title="contact" /><published>2000-01-07T00:00:00+01:00</published><updated>2000-01-07T00:00:00+01:00</updated><id>http://0.0.0.0:4000/contact</id><content type="html" xml:base="http://0.0.0.0:4000/contact">&lt;!-- ICK
 &lt;p style=&quot;clear: both;width: 0px&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot;float: left; font-size: 14pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;&quot;&gt;&lt;img src=&quot;img/Eli.png&quot; style=&quot;width: 100%;border-radius:50%&quot;&gt;&lt;a href=&quot;http://eeholmes.github.io&quot;&gt;Eli Holmes&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot;float: left; font-size: 14pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;&quot;&gt;&lt;img src=&quot;img/Mark.jpg&quot; style=&quot;width: 100%;border-radius:50%&quot;&gt;&lt;a href=&quot;https://faculty.washington.edu/scheuerl/&quot;&gt;Mark Scheuerell&lt;/a&gt;&lt;/p&gt;
@@ -25,6 +25,11 @@
 &lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/amm_personen/dr_weiss_christian&quot; style=&quot;text-decoration:none&quot;&gt;Christian Weiss&lt;/a&gt;
 &lt;/div&gt;
 
+&lt;div id=&quot;contactsbox&quot;&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/dr_lawrence_andrew&quot; style=&quot;text-decoration:none&quot;&gt;&lt;img src=&quot;img/andrewlawrence.jpg&quot; style=&quot;width: 100%;border-radius:50%&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.iaw.unibe.ch/ueber_uns/arp_amp_pa_personen/dr_lawrence_andrew&quot; style=&quot;text-decoration:none&quot;&gt;Andrew Lawrence&lt;/a&gt;
+&lt;/div&gt;
+
 &lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Publications</title><link href="http://0.0.0.0:4000/publications" rel="alternate" type="text/html" title="Publications" /><published>2000-01-04T00:00:00+01:00</published><updated>2000-01-04T00:00:00+01:00</updated><id>http://0.0.0.0:4000/publications</id><content type="html" xml:base="http://0.0.0.0:4000/publications">&lt;h2&gt;Our publications related to multivariate time-series analysis&lt;/h2&gt;
 
 &lt;p&gt;This is a selection of papers involving the Bern CoDA Lab.  See our &lt;a href=&quot;https://https://berncodalab.github.io/#contact&quot;&gt;individual websites&lt;/a&gt; for our publications on other topics.&lt;/p&gt;
@@ -36,7 +41,24 @@ ul {
 &lt;/style&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Fill me&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Payne, Annick Daniela; Castellano, Lorenzo; d’Alfonso, Lorenzo (2018). Palaeographic Database for the Anatolian Hieroglyphic script 1.0 (Im Druck). In: Giusfredi, F. (Hg.) Formal Representation and the Digital Humanities. Cambridge Scholars Publishing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Siebke, Inga; Campana, Lorenzo; Ramstein, Marianne; Furtwängler, Anja; Hafner, Albert; Lösch, Sandra (2018). The application of different 3D-scan-systems and photogrammetry at an excavation — A Neolithic dolmen from Switzerland. Digital Applications in Archaeology and Cultural Heritage, 10, e00078. Elsevier 10.1016/j.daach.2018.e00078&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sollee, Alexander Ericson; Rutishauser, Susanne Muriel; Hübner, Christian; Hemeier, Birthe; Novák, Mirko (2018). Fernerkundung, geophysikalische Prospektion und Ausgrabungen am Sirkeli Höyük (TR): Die Wiederentdeckung des antiken Kummanni/Kisuatni. Mitteilungen der Naturforschenden Gesellschaft in Bern, 75, S. 112-135. Naturforschende Gesellschaft Bern&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rutishauser, Susanne Muriel (Februar 2018). Hollow Ways – Wegenetze der Bronzezeit. In: Oswald, Debora; Schiel, Linda; Wagener-Böck, Nadine (Hg.) unterwegs. Zu Gestalt, Funktion und Materialität von Wegen. - Wege: Gestalt – Funktion – Materialität. Schriftenreihe der Isa Lohmann-Siems Stiftung: Vol. 11 (S. 22-39). Reimer Verlag&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hinz, M. (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. https://doi.org/10.5334/jcaa.53&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Schmid, C., Seidensticker, D., &amp;amp; Hinz, M. (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. https://doi.org/10.21105/joss.01914&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">Our publications related to multivariate time-series analysis</summary></entry><entry><title type="html">Packages</title><link href="http://0.0.0.0:4000/packages" rel="alternate" type="text/html" title="Packages" /><published>2000-01-03T00:00:00+01:00</published><updated>2000-01-03T00:00:00+01:00</updated><id>http://0.0.0.0:4000/packages</id><content type="html" xml:base="http://0.0.0.0:4000/packages">&lt;h2 class=&quot;text-blue&quot;&gt;Software available on GitHub&lt;/h2&gt;
 
 &lt;!-- the part in pkgsboxtext2 will disappear on small screens --&gt;
@@ -51,7 +73,20 @@ Yet to come
  --&gt;
  
  
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Software available on GitHub</summary></entry><entry><title type="html">Courses</title><link href="http://0.0.0.0:4000/courses" rel="alternate" type="text/html" title="Courses" /><published>2000-01-02T00:00:00+01:00</published><updated>2000-01-02T00:00:00+01:00</updated><id>http://0.0.0.0:4000/courses</id><content type="html" xml:base="http://0.0.0.0:4000/courses">&lt;h2 class=&quot;text-white&quot;&gt;Statistical Methods for Archaeological Data Analysis (SMADA)&lt;/h2&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Software available on GitHub</summary></entry><entry><title type="html">Courses</title><link href="http://0.0.0.0:4000/courses" rel="alternate" type="text/html" title="Courses" /><published>2000-01-02T00:00:00+01:00</published><updated>2000-01-02T00:00:00+01:00</updated><id>http://0.0.0.0:4000/courses</id><content type="html" xml:base="http://0.0.0.0:4000/courses">&lt;h2&gt;Courses&lt;/h2&gt;
+
+&lt;h3 class=&quot;text-white&quot;&gt;Computer Aided Archaeology (CAA)&lt;/h3&gt;
+
+&lt;div id=&quot;coursescontainer&quot;&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/ca_hs_2019&quot;&gt;Course Website&lt;/a&gt;&lt;br /&gt;
+Lectures pdfs, lecture video recordings, course handouts and exercises.
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;padding: 20px&quot;&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;text-white&quot;&gt;Statistical Methods for Archaeological Data Analysis (SMADA)&lt;/h3&gt;
 
 &lt;div id=&quot;coursescontainer&quot;&gt;
 &lt;div id=&quot;coursesbox&quot;&gt;
@@ -66,16 +101,27 @@ Online book based on the course.&lt;br /&gt;
 
 &lt;div style=&quot;padding: 20px&quot;&gt;&lt;/div&gt;
 
-&lt;h2 class=&quot;text-white&quot;&gt;GIS in Archaeology (GIA)&lt;/h2&gt;
+&lt;h3 class=&quot;text-white&quot;&gt;GIS in Archaeology (GIA)&lt;/h3&gt;
 
 &lt;div id=&quot;coursescontainer&quot;&gt;
 &lt;div id=&quot;coursesbox&quot;&gt;
 &lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/gia_hs_2020&quot;&gt;Course Website&lt;/a&gt;&lt;br /&gt;
 Using QGIS for archeological investigations.
 &lt;/div&gt;
-&lt;div id=&quot;coursesbox&quot;&gt;
-&lt;a class=&quot;boxlinks&quot; href=&quot;&quot;&gt;Book&lt;/a&gt;&lt;br /&gt;
-Yet to come.&lt;br /&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Statistical Methods for Archaeological Data Analysis (SMADA)</summary></entry><entry><title type="html">home</title><link href="http://0.0.0.0:4000/intro" rel="alternate" type="text/html" title="home" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://0.0.0.0:4000/intro</id><content type="html" xml:base="http://0.0.0.0:4000/intro">&lt;h1&gt;Bern CoDA Lab&lt;/h1&gt;
-&lt;h2 class=&quot;text-blue&quot;&gt;Courses, eBooks, Software, and Publications&lt;/h2&gt;</content><author><name></name></author><summary type="html">Bern CoDA Lab Courses, eBooks, Software, and Publications</summary></entry></feed>
+
+&lt;div style=&quot;padding: 20px&quot;&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;text-white&quot;&gt;Tutorial ‘Predictive Mapping in R’ (8th of February 2019)&lt;/h3&gt;
+
+&lt;div id=&quot;coursescontainer&quot;&gt;
+&lt;div id=&quot;coursesbox&quot;&gt;
+&lt;a class=&quot;boxlinks&quot; href=&quot;https://martinhinz.github.io/pred_map_tut&quot;&gt;Slides&lt;/a&gt;&lt;br /&gt;
+Using R to predict site probability using environmental variables.
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Courses</summary></entry><entry><title type="html">home</title><link href="http://0.0.0.0:4000/intro" rel="alternate" type="text/html" title="home" /><published>2000-01-01T00:00:00+01:00</published><updated>2000-01-01T00:00:00+01:00</updated><id>http://0.0.0.0:4000/intro</id><content type="html" xml:base="http://0.0.0.0:4000/intro">&lt;h1&gt;Bern CoDA Lab&lt;/h1&gt;
+&lt;h2 class=&quot;text-blue&quot;&gt;Courses, eBooks, Software, and Publications&lt;/h2&gt;
+
+&lt;p&gt;The Bern Computational and Digital Archaeology lab (Bern CoDA Lab) is a research infrastructure hosted by the Institute for Archaeological Sciences of the University of Bern. It focuses on the promotion, support and development of computational and quantitative methods in archaeological research, from the initial data collecting, incl. adequate data management and storage, to the data processing and analysis, and not least to its visual presentation. The careful assessment of the data, the critical reflection of the methodology, and the thorough, integrative discussion of the achieved results are a matter of course.&lt;/p&gt;
+
+&lt;p&gt;Besides offering a series of equipment, software applications and further resources, we regularly provide targeted training and workshops in order to promote and exchange different approaches in computational and digital archaeology, all in a competent and stimulating research environment. We furthermore aim to sustainably contribute to the development of computational and digital archaeology.&lt;/p&gt;</content><author><name></name></author><summary type="html">Bern CoDA Lab Courses, eBooks, Software, and Publications</summary></entry></feed>
