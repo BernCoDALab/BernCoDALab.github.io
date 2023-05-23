@@ -5,7 +5,7 @@ color: black
 icon: img/icons-03.png
 ---
 
-## Our publications related to multivariate time-series analysis
+## Our publications quantitative and computational analysis
 
 This is a selection of papers involving the Bern CoDA Lab.  See our <a href="https://berncodalab.github.io/#contact">individual websites</a> for our publications on other topics.
 
@@ -24,6 +24,8 @@ ul {
 * Rutishauser, Susanne Muriel (Februar 2018). Hollow Ways – Wegenetze der Bronzezeit. In: Oswald, Debora; Schiel, Linda; Wagener-Böck, Nadine (Hg.) unterwegs. Zu Gestalt, Funktion und Materialität von Wegen. - Wege: Gestalt – Funktion – Materialität. Schriftenreihe der Isa Lohmann-Siems Stiftung: Vol. 11 (S. 22-39). Reimer Verlag
 
 * Hinz, M. (2020). Sensitivity of Radiocarbon Sum Calibration. Journal of Computer Applications in Archaeology, 3(1), 238–252. https://doi.org/10.5334/jcaa.53
+
+* Hinz, M., & Heitz, C. (2022). Unsupervised Classification of Neolithic Pottery From the Northern Alpine Space Using t-SNE and HDBSCAN. Open Archaeology, 8(1), 1183–1217. https://doi.org/10.1515/opar-2022-0274
 
 * Schmid, C., Seidensticker, D., & Hinz, M. (2019). c14bazAAR: An R package for downloading and preparing C14 dates from different source databases. Journal of Open Source Software. https://doi.org/10.21105/joss.01914
 
